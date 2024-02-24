@@ -1,5 +1,5 @@
 <h2>☯️ I'm Andre Huaman Yovera! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://c.wallhere.com/photos/1c/32/nikon_kyoto-408160.jpg!d" width="230">
+
 <p><em>Software Engineer at <a href="https://oneup-i.com/">ONEUP-I</a><img src="https://oneup-i.com/images/logo-oneup.png" width="30"> 
 </em></p>
 
