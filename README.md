@@ -26,7 +26,8 @@ const tathata = {
         },
         devOps: ["AWS", "Docker🐳", "Azure", "Kubernetes"],
         databases: ["mongo", "sql", "sqlite", "graphql"],
-        misc: ["Firebase", "Socket.IO", "selenium"]
+        misc: ["Firebase", "Socket.IO", "selenium"],
+        codeAssistants: ["ChatGPT", "Codeium"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "I am developing software for the maritime industry, specifically for companies in the shipping sector, using the .NET Framework.",
