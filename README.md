@@ -1,6 +1,7 @@
 <h2>☯️ I'm Andre Huaman Yovera! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-<p><em>Software Engineer at <a href="https://oneup-i.com/">ONEUP-I</a><img src="https://oneup-i.com/images/logo-oneup.png" width="30"> 
+<p><em>Software Engineer at <a href="https://oneup-i.com/">ONEUP-I</a><img src
+="https://oneup-i.com/images/logo-oneup.png" width="30"> 
 </em></p>
 
 [![Linkedin: tathata](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-huaman-yovera-676199210/)](https://www.linkedin.com/in/andre-huaman-yovera-676199210/)
@@ -14,7 +15,7 @@ const tathata = {
     code: ["Javascript", "Typescript", "Python", "C#"],
     askMeAbout: ["web dev", "tech", "app dev", "data science", "block chain"],
     technologies: {
-        mobileApp: [".NET Xamarin / MAUI"],
+        mobileApp: [".NET Xamarin / MAUI", "React Native"],
         frontEnd: {
             js: ["Angular", "React", "Astro", "Next", "Svelte", "Vue"],
             css: ["tailwind", "bootstrap"]
