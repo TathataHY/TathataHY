@@ -5,9 +5,6 @@
 </em></p>
 
 [![Linkedin: tathata](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-huaman-yovera-676199210/)](https://www.linkedin.com/in/andre-huaman-yovera-676199210/)
-[![GitHub followers](https://img.shields.io/github/followers/TathataHY?label=Follow&style=social)](https://github.com/tathatahy)
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const tathata = {
@@ -34,8 +31,3 @@ const tathata = {
     currentProject: "I am developing software for the maritime industry, specifically for companies in the shipping sector, using the .NET Framework.",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'm passionate about software development,</b> and if you'd like to discuss tech or share ideas, <b>don't hesitate to reach out! I'm always excited to connect with fellow enthusiasts!</b> 😊</em>
-
----
