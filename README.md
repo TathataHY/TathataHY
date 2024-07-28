@@ -19,11 +19,12 @@ const tathata = {
         },
         backEnd: {
             js: ["node", "express"],
+            php: ["laravel", "symfony"],
             python: ["flask"],
             csharp: [".net"]
         },
         devOps: ["AWS", "Docker🐳", "Azure", "Kubernetes"],
-        databases: ["mongo", "sql", "sqlite", "graphql"],
+        databases: ["mongodb", "sql", "sqlite", "graphql"],
         misc: ["Firebase", "Socket.IO", "selenium"],
         codeAssistants: ["ChatGPT", "Codeium"]
 
