@@ -2,7 +2,7 @@
 
 <p><em>Software Engineer at <a href="https://oneup-i.com/">ONEUP-I</a><img src
 ="https://github.com/user-attachments/assets/5dab3038-6470-4030-aea8-1048b333bfd5" width="30"> 
-</em></p>
+</em></p> 
 
 [![Linkedin: tathata](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-huaman-yovera-676199210/)](https://www.linkedin.com/in/andre-huaman-yovera-676199210/)
 
@@ -32,4 +32,7 @@ const tathata = {
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "I am developing software for the maritime industry, specifically for companies in the shipping sector, using the .NET Framework.",
     funFact: "There are two ways to write error-free programs; only the third one works"
-};
+};}
+```
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tathatahy&size_weight=0.4&count_weight=0.6&layout=compact)
