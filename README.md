@@ -9,7 +9,7 @@
 ```javascript
 const tathata = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "C#"],
+    code: ["Javascript", "Typescript", "Python", "C#", "PHP"],
     askMeAbout: ["web dev", "tech", "app dev", "data science", "block chain"],
     technologies: {
         mobileApp: [".NET Xamarin / MAUI", "React Native"],
