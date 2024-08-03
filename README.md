@@ -35,4 +35,4 @@ const tathata = {
 };}
 ```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tathatahy&size_weight=0.4&count_weight=0.6&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tathatahy&size_weight=0.5&count_weight=0.5&hide=assembly&layout=compact)
