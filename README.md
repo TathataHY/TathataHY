@@ -9,12 +9,12 @@
 ```javascript
 const tathata = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "C#", "PHP"],
+    code: ["Typescript", "Python", "C#", "PHP"],
     askMeAbout: ["web dev", "tech", "app dev", "data science", "block chain"],
     technologies: {
-        mobileApp: [".NET Xamarin / MAUI", "React Native"],
+        mobileApp: [".NET MAUI (Xamarin)", "React Native"],
         frontEnd: {
-            js: ["Angular", "React", "Astro", "Next", "Svelte", "Vue"],
+            js: ["React", "Astro", "Next"],
             css: ["tailwind", "bootstrap"]
         },
         backEnd: {
