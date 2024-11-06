@@ -18,7 +18,7 @@ const tathata = {
             css: ["tailwind", "bootstrap"]
         },
         backEnd: {
-            js: ["node", "express"],
+            js: ["node", "express", "nestjs"],
             php: ["laravel", "symfony"],
             python: ["flask"],
             csharp: [".net"]
