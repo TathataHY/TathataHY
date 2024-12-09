@@ -26,7 +26,7 @@ const tathata = {
         devOps: ["AWS", "Docker🐳", "Azure", "Kubernetes"],
         databases: ["mongodb", "sql", "sqlite", "graphql"],
         misc: ["Firebase", "Socket.IO", "selenium"],
-        codeAssistants: ["ChatGPT", "Codeium"]
+        codeAssistants: ["ChatGPT", "Cursor"]
 
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
